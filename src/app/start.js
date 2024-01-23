@@ -2,7 +2,7 @@ import router from './router.js'
 import { w2ui, w2alert } from '../../libs/w2ui/w2ui.es6.min.js'
 
 let app = {
-    name: 'MyApp',
+    name: 'PetroCalculator',
     context: '../',
     router
 }
